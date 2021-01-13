@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase700</string>
+    <string name="prefs_file">com.example.firebase700.FILE</string>
+</resources>

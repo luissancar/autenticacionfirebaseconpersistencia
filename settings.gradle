@@ -1,0 +1,2 @@
+rootProject.name = "Firebase700"
+include ':app'

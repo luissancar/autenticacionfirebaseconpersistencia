@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578600976647",
+    "project_id": "fir-kotin",
+    "storage_bucket": "fir-kotin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578600976647:android:7bb4b9194c584039d3c5a2",
+        "android_client_info": {
+          "package_name": "com.example.firebase700"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578600976647-0n2og4ebdsefdf654tpm00j5n3s3jj7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmMGjAPPZniewGT2zED4VcyMM9gNOAI3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578600976647-0n2og4ebdsefdf654tpm00j5n3s3jj7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
